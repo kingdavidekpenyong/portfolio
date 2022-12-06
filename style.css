@@ -1,0 +1,33 @@
+body{
+	background-color: green;
+}
+
+h1{
+	color: royalblue;
+	text-align: left;
+	color: yellow;
+}
+
+
+
+.boy{
+	text-align: center;
+	font-size: 38px;
+	font-weight: bold;
+}
+.boy:hover{
+	color: white;
+}
+
+
+
+.hello{
+	text-align: center;
+	font-size: 18px;
+}
+.spring{
+	text-align: center;
+	background-color: white;
+	font-size: 24px;
+
+}
